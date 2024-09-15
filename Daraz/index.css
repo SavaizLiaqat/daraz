@@ -1,0 +1,50 @@
+*{
+    margin: 0px;
+    color: white;
+    font-family: Raleway;
+}
+nav{
+    background-color: orangered;
+}
+select{
+    background-color: orangered;
+    border: 0px;
+}
+#searchnav{
+    width: 700px;
+    height: 40px;
+    padding: 20px;
+    border-radius: 10px;
+}
+span{
+    color: red;
+    font-family: PT Serif;
+    text-align: left;
+}
+p{
+    color: black;
+}
+.coloro{
+    margin-left: 20px;
+}
+.contant{
+    width: 280px;
+    padding: 2px;
+}
+.star{
+    color: yellow;
+}
+.sta{
+    color: gray;
+}
+.spa{
+    color: gray;
+}
+#sact{
+    margin: 20px;
+}
+.contant th:hover{
+    border-radius: 5px;
+    border: 2px solid orangered;
+
+}
